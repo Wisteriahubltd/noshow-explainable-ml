@@ -1,0 +1,9 @@
+# dataset is public on Kaggle; link to it instead of committing it
+*.csv
+data/
+figures/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+noshow_model.json
